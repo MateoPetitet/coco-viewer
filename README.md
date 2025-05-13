@@ -13,7 +13,7 @@ Simple COCO Objects Viewer in Tkinter. Allows quick viewing on local machine.
 | <kbd>L</kbd>, <kbd>Ctrl</kbd> + <kbd>L</kbd> | Toggle **L**abels |
 | <kbd>B</kbd>, <kbd>Ctrl</kbd> + <kbd>B</kbd> | Toggle **B**oxes |
 | <kbd>M</kbd>, <kbd>Ctrl</kbd> + <kbd>M</kbd> | Toggle **M**asks |
-| <kbd>Ctrl</kbd> + <kbd>S</kbd> | Save Current Image |
+| <kbd>Ctrl</kbd> + <kbd>S</kbd> | Save Current Image |svchn
 | <kbd>Ctrl</kbd> + <kbd>Q</kbd>, <kbd>Ctrl</kbd> + <kbd>W</kbd> | Exit Viewer |
 
 ## Requirements
@@ -22,9 +22,9 @@ Simple COCO Objects Viewer in Tkinter. Allows quick viewing on local machine.
 ## Installation
 
 ```
-git clone https://github.com/trsvchn/coco-viewer.git
+git clone https://github.com/MateoPetitet/coco-viewer.git
 ```
-
+svchn
 ## Usage
 
 ```bash
